@@ -10,6 +10,7 @@
 * 開啟Terminal
 * 輸入：
 > cd Desktop
+'\n'
 > touch name.txt
 
 * You then will get a pure txt file on your desktop.

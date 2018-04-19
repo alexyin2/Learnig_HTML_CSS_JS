@@ -9,7 +9,7 @@
 * 方法：
 * 開啟Terminal
 * 輸入：
-cd Desktop
-touch name.txt
+> cd Desktop
+> touch name.txt
 
-You then will get a pure txt file on your desktop.
+* You then will get a pure txt file on your desktop.

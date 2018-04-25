@@ -6,8 +6,8 @@
 * 因此最好的方法是透過Terminal直接在桌面產生一個txt檔案，再將其轉換為html格式。
 
 * 方法：
-  1. 開啟Terminal
-  2. 輸入：
+  1. 開啟Terminal
+  2. 輸入：
 ```
 cd Desktop (This is not necessary, just decide where you want to create your file)
 touch name.txt

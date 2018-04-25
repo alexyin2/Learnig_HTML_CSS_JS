@@ -8,10 +8,10 @@
 * 方法：
 * 開啟Terminal
 * 輸入：
-> cd Desktop (This is not necessary, just decide where you want to create your file)
-> 
-> touch name.txt
-
+```
+cd Desktop (This is not necessary, just decide where you want to create your file)
+touch name.txt
+```
 * You then will get a pure txt file on your desktop.
 
 * Still highly recommended to use other applications since you'll need to connect between HTML, CSS, and JavaScript.
